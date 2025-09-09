@@ -25,3 +25,7 @@
 After opening the notebook in Google Colab, save a copy to your own drive to keep the changes you make to the notebook.
 
 &rarr; File &rarr; Save a copy in drive
+
+
+### Link to this page
+![qr_code](qrcode_github.com.png)
