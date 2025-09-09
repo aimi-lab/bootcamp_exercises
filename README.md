@@ -3,7 +3,8 @@
 ## Probability
 - [Notebook 1 - Bayes Theorem](https://colab.research.google.com/github/aimi-lab/bootcamp_exercises/blob/main/probability_exercises/Probability_1_bayes_theorem.ipynb) 
 
-- [Notebook 2 - Gaussian Distribution](https://colab.research.google.com/github/aimi-lab/bootcamp_exercises/blob/main/probability_exercises/Probability_1_bayes_theorem.ipynb) 
+<!-- We miss this file, if you know where it is please add it.-->
+<!-- - [Notebook 2 - Gaussian Distribution]()  -->
 
 - [Notebook 3 - Central Limit Theorem](https://colab.research.google.com/github/aimi-lab/bootcamp_exercises/blob/main/probability_exercises/Probability_3_central_limit_theorem.ipynb)
 
